@@ -1,0 +1,18 @@
+{
+  "name": "tester",
+  "version": "1.0.1",
+  "description": "Creating a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "test",
+    "faker.js"
+  ],
+  "author": "BKV UdayKumar",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
